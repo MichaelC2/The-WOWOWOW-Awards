@@ -1,0 +1,43 @@
+.text {
+font-family: 'Dancing Script', cursive;
+font-size: 45px;
+}
+.blue { 
+    color: blue;
+}
+
+body {
+    background-image: url("https://image.freepik.com/free-vector/abstract-design-background_1048-6726.jpg");
+    background-size: cover;
+}
+h2 {
+    text-align: center;
+font-family: 'Kaushan Script', cursive;
+
+}
+
+h3 {
+    text-align: center;
+ font-family: 'Share Tech Mono' , monospace;
+font-size: 50px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Spicy Rice', cursive;
+font-size: 50px;
+}
+.red{
+    color: red;
+}
+h5{
+    text-align: center;
+font-family: 'Caveat', cursive;
+font-size: 50px;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
